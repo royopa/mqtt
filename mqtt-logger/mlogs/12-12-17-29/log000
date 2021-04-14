@@ -1,0 +1,12 @@
+{"time": [2020, 12, 12, 17, 29, 4, 5, 347, 0], "topic": "cli-mlk-001-pub/temperature", "message": 28.0}
+{"time": [2020, 12, 12, 17, 29, 4, 5, 347, 0], "topic": "cli-mlk-001-pub/humidity", "message": 56.3}
+{"time": [2020, 12, 12, 17, 29, 4, 5, 347, 0], "topic": "cli-mlk-001-pub/luminosity", "message": 4095}
+{"time": [2020, 12, 12, 17, 29, 24, 5, 347, 0], "topic": "cli-mlk-001-pub/humidity", "message": 56.4}
+{"time": [2020, 12, 12, 17, 29, 34, 5, 347, 0], "topic": "cli-mlk-001-pub/temperature", "message": 28.1}
+{"time": [2020, 12, 12, 17, 29, 34, 5, 347, 0], "topic": "cli-mlk-001-pub/humidity", "message": 56.5}
+{"time": [2020, 12, 12, 17, 29, 54, 5, 347, 0], "topic": "cli-mlk-001-pub/temperature", "message": 28.0}
+{"time": [2020, 12, 12, 17, 29, 54, 5, 347, 0], "topic": "cli-mlk-001-pub/humidity", "message": 56.4}
+{"time": [2020, 12, 12, 17, 30, 4, 5, 347, 0], "topic": "cli-mlk-001-pub/temperature", "message": 28.1}
+{"time": [2020, 12, 12, 17, 30, 4, 5, 347, 0], "topic": "cli-mlk-001-pub/humidity", "message": 56.5}
+{"time": [2020, 12, 12, 17, 30, 14, 5, 347, 0], "topic": "cli-mlk-001-pub/temperature", "message": 28.0}
+{"time": [2020, 12, 12, 17, 30, 14, 5, 347, 0], "topic": "cli-mlk-001-pub/humidity", "message": 56.4}
